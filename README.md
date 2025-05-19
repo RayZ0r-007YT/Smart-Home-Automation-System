@@ -17,11 +17,7 @@ Jumper Wires, Breadboard
 # ⚙️ Features
 Remote control via Blynk app
 
-Auto-open doors with IR sensors
-
-Rain cover closes automatically during rainfall
-
-Real-time notifications via Blynk events
+Real-time notifications via Blynk events during rainfall and IR detection
 
 # 📷 Circuit Diagram
 ![Image](https://github.com/user-attachments/assets/24fc9f1d-f408-4141-bdff-c3f3296ecc51)
@@ -30,4 +26,4 @@ Real-time notifications via Blynk events
 ![Image](https://github.com/user-attachments/assets/ec2203cf-ae07-40e2-bfa5-b215950ac4c6)
 
 # 🧠 Code
-👉 smart_home.ino
+👉 https://github.com/rakibur-rafi/Smart-Home-Automation-System/blob/main/smart_home.ino
